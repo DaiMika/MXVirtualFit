@@ -1,1 +1,0 @@
-This ensures each feature is clearly highlighted and visually appealing. It highlights the three key features of MXVirtualFit, including the Personalised Workout Plans Feature, Real-Time Feedback Feature and Progress Tracking Feature.
