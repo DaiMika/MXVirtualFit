@@ -1,12 +1,10 @@
 PROJECT TITLE:MXVirtualFit
 
-VirtualFit is a platform designed to revolutionize virtual fitness experiences. Read the full journey in [this blog post](https://www.linkedin.com/posts/maxyn-edogha-0b2bb91b5_introducing-mxvirtualfit-activity-7220840102237773824-94yQ?utm_source=combined_share_message&utm_medium=member_android). Connect on [LinkedIn](https://www.linkedin.com/in/maxyn-edogha-0b2bb91b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+VirtualFit is a platform designed to revolutionize virtual fitness experiences. Read the full journey in (https://www.linkedin.com/posts/maxyn-edogha-0b2bb91b5_introducing-mxvirtualfit-activity-7220840102237773824-94yQ?utm_source=combined_share_message&utm_medium=member_android). 
 
 
 Installation
 
-Clone the repository and install dependencies:
-```bash
 git clone http://github.com/MXVirtualFit
 cd MXVirtualFit
 npm install
