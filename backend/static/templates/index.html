@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}Home - MXVirtualFit{% endblock %}
+
+{% block content %}
+<section id="intro">
+    <h2>Welcome to MXVirtualFit</h2>
+    <p>Your personalized virtual fitness companion. Achieve your fitness goals with ease!</p>
+    <button id="welcomeBtn">Get Started</button>
+</section>
+
+<section id="features">
+    <h2>Features</h2>
+    <div class="feature">
+        <img src="{{ url_for('static', filename='images/feature1.png') }}" alt="Feature 1">
+        <h3>Feature 1</h3>
+        <p>Description of feature 1.</p>
+    </div>
+    <div class="feature">
+        <img src="{{ url_for('static', filename='images/feature2.png') }}" alt="Feature 2">
+        <h3>Feature 2</h3>
+        <p>Description of feature 2.</p>
+    </div>
+    <div class="feature">
+        <img src="{{ url_for('static', filename='images/feature3.png') }}" alt="Feature 3">
+        <h3>Feature 3</h3>
+        <p>Description of feature 3.</p>
+    </div>
+</section>
+
+<section id="about">
+    <h2>About MXVirtualFit</h2>
+    <p>VirtualFit was inspired by the need for a convenient and effective fitness solution.</p>
+    <p>Learn more about our journey and team.</p>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/Maxyn Edogha">LinkedIn</a></li>
+        <li><a href="https://github.com/DaiMika">GitHub</a></li>
+        <li><a href="https://twitter.com/Maxdie_Tunnie">Twitter</a></li>
+    </ul>
+</section>
+{% endblock %}
+
